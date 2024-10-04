@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gunajidiksha
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently pursuing a Bachelor of Engineering (B.E.) in Computer Science
-- 📫 How to reach me dikshagunaji@gmail.com
+- 📫 How to reach me gunajidiksha@gmail.com
 <!--😄 Pronouns: ...
 - 💞️ I’m looking to collaborate on ...
 - ⚡ Fun fact: ...-->
